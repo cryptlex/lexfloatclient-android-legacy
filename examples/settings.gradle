@@ -1,0 +1,3 @@
+include ':lexfloatclient-release'
+include ':app'
+rootProject.name = "examples"
